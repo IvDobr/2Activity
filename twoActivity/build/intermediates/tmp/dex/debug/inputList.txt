@@ -1,0 +1,5 @@
+/Users/Dobr/AndroidStudioProjects/twoActivity/twoActivity/build/intermediates/classes/debug
+/Users/Dobr/AndroidStudioProjects/twoActivity/twoActivity/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-38f1a7356c3c55688c8a8d2382638e3498b5e716.jar
+/Users/Dobr/AndroidStudioProjects/twoActivity/twoActivity/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-53232c8869652adf52d0e229eb4638b140c4c86f.jar
+/Users/Dobr/AndroidStudioProjects/twoActivity/twoActivity/build/intermediates/pre-dexed/debug/classes-23896a9633bcad960415d882c691c599f98960dc.jar
+/Users/Dobr/AndroidStudioProjects/twoActivity/twoActivity/build/intermediates/pre-dexed/debug/classes-499201b48a2f235a65c2cc4a541eb3062873ebbc.jar
